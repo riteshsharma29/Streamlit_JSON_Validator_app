@@ -1,2 +1,2 @@
-py -m pip install pyautogui==0.9.53
-py -m pip install streamlit==0.86.0
+pyautogui==0.9.53
+streamlit==0.86.0
