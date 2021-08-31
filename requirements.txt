@@ -1,3 +1,2 @@
 pyautogui==0.9.53
 streamlit==0.86.0
-json==2.0.9
